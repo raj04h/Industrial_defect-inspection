@@ -17,8 +17,10 @@ data/
 
 # Training outputs
 runs/
-outputs/
 results/
+output/video_testing/
+
+
 
 # Model weights
 *.pt
@@ -31,6 +33,7 @@ results/
 
 # Environment / secrets
 .env
+.history
 
 # OS
 .DS_Store
