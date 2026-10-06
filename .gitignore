@@ -30,6 +30,7 @@ output/video_testing/
 # IDE
 .vscode/
 .idea/
+.history/
 
 # Environment / secrets
 .env
